@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-03-08 06:23:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-03-08 05:48:14 +0000"
@@ -230,6 +236,12 @@
   "create:andesite_alloy": {
     "criteria": {
       "0": "2025-03-08 06:13:28 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-03-08 06:19:32 +0000"
     },
     "done": true
   },
@@ -530,6 +542,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-08 05:48:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-03-08 06:25:04 +0000"
     },
     "done": true
   },
@@ -937,6 +955,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-03-08 06:23:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/clipboard": {
     "criteria": {
       "has_item": "2025-03-08 06:13:28 +0000"
@@ -1090,6 +1114,12 @@
   "smallships:recipes/transportation/mangrove_brigg": {
     "criteria": {
       "in_water": "2025-03-08 05:31:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2025-03-08 06:18:40 +0000"
     },
     "done": true
   },
@@ -1981,6 +2011,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-03-08 06:25:04 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-03-08 05:57:22 +0000"
@@ -2008,6 +2044,12 @@
   "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-03-08 05:38:55 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-03-08 06:25:01 +0000"
     },
     "done": true
   },
@@ -2086,6 +2128,12 @@
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2025-03-08 05:32:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-08 06:18:11 +0000"
     },
     "done": true
   },
@@ -2182,6 +2230,12 @@
   "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-03-08 05:39:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-03-08 06:23:09 +0000"
     },
     "done": true
   },
@@ -2457,6 +2511,18 @@
     },
     "done": true
   },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-03-08 06:24:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-03-08 06:25:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-03-08 05:42:00 +0000"
@@ -2562,6 +2628,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-03-08 05:38:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-03-08 06:25:04 +0000"
     },
     "done": true
   },
