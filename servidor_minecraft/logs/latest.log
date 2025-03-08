@@ -898,3 +898,22 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [08Mar2025 22:59:17.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IngCuantico has made the advancement [The Brass Age]
 [08Mar2025 23:02:26.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> ta echando cabeza ah
 [08Mar2025 23:03:36.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> q hace}
+[08Mar2025 23:05:28.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> necesitamos
+[08Mar2025 23:05:29.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> estaba leyendo
+[08Mar2025 23:05:30.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> andesita
+[08Mar2025 23:05:39.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> que eso lo nerfearon
+[08Mar2025 23:05:43.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> pq andaba viendo
+[08Mar2025 23:05:49.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> y como yo pensaba si hacia que fuera mas veloz
+[08Mar2025 23:05:51.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> pero ya no
+[08Mar2025 23:05:57.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> no funciona igual
+[08Mar2025 23:06:14.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> deme los engranajes
+[08Mar2025 23:06:17.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> y todo lo q le di
+[08Mar2025 23:06:42.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> y todo lo q le di
+[08Mar2025 23:06:44.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> deme los engranajes
+[08Mar2025 23:07:40.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> voy a hacer una prueba en creativo
+[08Mar2025 23:07:41.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> ya vengo
+[08Mar2025 23:07:43.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking lost connection: Disconnected
+[08Mar2025 23:07:43.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking left the game
+[08Mar2025 23:14:02.805] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@81e0156[id=<null>,name=danking,properties={},legacy=false] (/127.178.170.88:37615) lost connection: Disconnected
+[08Mar2025 23:14:15.307] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@63352c29[id=<null>,name=danking,properties={},legacy=false] (/127.178.170.88:42417) lost connection: Disconnected
+[08Mar2025 23:14:48.256] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@287f9743[id=<null>,name=danking,properties={},legacy=false] (/127.178.170.88:43937) lost connection: Disconnected
