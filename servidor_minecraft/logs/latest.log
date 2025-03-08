@@ -1,220 +1,133 @@
-[08Mar2025 18:50:35.991] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.22, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[08Mar2025 18:50:35.995] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[08Mar2025 18:50:36.997] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[08Mar2025 18:50:37.063] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/servidorcreate/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[08Mar2025 18:50:37.401] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidorcreate/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.22/fmlcore-1.20.1-47.3.22.jar is missing mods.toml file
-[08Mar2025 18:50:37.403] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidorcreate/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.22/javafmllanguage-1.20.1-47.3.22.jar is missing mods.toml file
-[08Mar2025 18:50:37.405] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidorcreate/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.22/lowcodelanguage-1.20.1-47.3.22.jar is missing mods.toml file
-[08Mar2025 18:50:37.406] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidorcreate/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.22/mclanguage-1.20.1-47.3.22.jar is missing mods.toml file
-[08Mar2025 18:50:37.608] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[08Mar2025 18:50:39.968] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[08Mar2025 18:50:40.070] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[08Mar2025 18:50:40.072] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[08Mar2025 18:50:40.166] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
-[08Mar2025 18:50:40.542] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[08Mar2025 18:50:40.543] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[08Mar2025 18:50:40.543] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[08Mar2025 18:50:40.544] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[08Mar2025 18:50:40.545] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[08Mar2025 18:50:40.545] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[08Mar2025 18:50:40.548] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[08Mar2025 18:50:40.548] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[08Mar2025 18:50:50.692] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.22, for MC 1.20.1 with MCP 20230612.114412
-[08Mar2025 18:50:50.697] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.22 Initialized
-[08Mar2025 18:50:50.804] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[08Mar2025 18:50:50.805] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[08Mar2025 18:50:54.682] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/servidorcreate/servidor_minecraft/config/carryon-common.toml is not correct. Correcting
-[08Mar2025 18:50:54.684] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings was corrected from null to its default, SimpleCommentedConfig:{}. 
-[08Mar2025 18:50:54.684] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.maxDistance was corrected from null to its default, 2.5. 
-[08Mar2025 18:50:54.684] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.maxEntityWidth was corrected from null to its default, 1.5. 
-[08Mar2025 18:50:54.685] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.maxEntityHeight was corrected from null to its default, 2.5. 
-[08Mar2025 18:50:54.685] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.blockSlownessMultiplier was corrected from null to its default, 1.0. 
-[08Mar2025 18:50:54.685] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.entitySlownessMultiplier was corrected from null to its default, 1.0. 
-[08Mar2025 18:50:54.686] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.maxEntityStackLimit was corrected from null to its default, 10. 
-[08Mar2025 18:50:54.686] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.heavyTiles was corrected from null to its default, true. 
-[08Mar2025 18:50:54.687] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.pickupAllBlocks was corrected from null to its default, false. 
-[08Mar2025 18:50:54.687] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.slownessInCreative was corrected from null to its default, true. 
-[08Mar2025 18:50:54.687] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.pickupHostileMobs was corrected from null to its default, false. 
-[08Mar2025 18:50:54.687] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.heavyEntities was corrected from null to its default, true. 
-[08Mar2025 18:50:54.688] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.allowBabies was corrected from null to its default, false. 
-[08Mar2025 18:50:54.688] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.useWhitelistBlocks was corrected from null to its default, false. 
-[08Mar2025 18:50:54.688] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.useWhitelistEntities was corrected from null to its default, false. 
-[08Mar2025 18:50:54.688] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.useWhitelistStacking was corrected from null to its default, false. 
-[08Mar2025 18:50:54.688] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.hitWhileCarrying was corrected from null to its default, false. 
-[08Mar2025 18:50:54.688] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.dropCarriedWhenHit was corrected from null to its default, false. 
-[08Mar2025 18:50:54.688] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.useScripts was corrected from null to its default, false. 
-[08Mar2025 18:50:54.689] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.stackableEntities was corrected from null to its default, true. 
-[08Mar2025 18:50:54.689] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.entitySizeMattersStacking was corrected from null to its default, true. 
-[08Mar2025 18:50:54.690] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.placementStateExceptions was corrected from null to its default, [minecraft:chest[type], minecraft:stone_button[face], minecraft:vine[north,east,south,west,up], minecraft:creeper_head[rotation], minecraft:glow_lichen[north,east,south,west,up,down], minecraft:oak_sign[rotation], minecraft:oak_trapdoor[half]]. 
-[08Mar2025 18:50:54.690] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.pickupPlayers was corrected from null to its default, true. 
-[08Mar2025 18:50:54.690] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.pickupUnbreakableBlocks was corrected from null to its default, false. 
-[08Mar2025 18:50:54.691] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key whitelist was corrected from null to its default, SimpleCommentedConfig:{}. 
-[08Mar2025 18:50:54.692] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key whitelist.allowedEntities was corrected from null to its default, []. 
-[08Mar2025 18:50:54.692] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key whitelist.allowedBlocks was corrected from null to its default, []. 
-[08Mar2025 18:50:54.693] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key whitelist.allowedStacking was corrected from null to its default, []. 
-[08Mar2025 18:50:54.695] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blacklist was corrected from null to its default, SimpleCommentedConfig:{}. 
-[08Mar2025 18:50:54.697] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blacklist.forbiddenTiles was corrected from null to its default, [#forge:immovable, #forge:relocation_not_supported, minecraft:end_portal, minecraft:piston_head, minecraft:end_gateway, minecraft:tall_grass, minecraft:large_fern, minecraft:peony, minecraft:rose_bush, minecraft:lilac, minecraft:sunflower, minecraft:*_bed, minecraft:*_door, minecraft:big_dripleaf_stem, minecraft:waterlily, minecraft:cake, minecraft:nether_portal, minecraft:tall_seagrass, animania:block_trough, animania:block_invisiblock, colossalchests:*, ic2:*, bigreactors:*, forestry:*, tconstruct:*, rustic:*, botania:*, astralsorcery:*, quark:colored_bed_*, immersiveengineering:*, embers:block_furnace, embers:ember_bore, embers:ember_activator, embers:mixer, embers:heat_coil, embers:large_tank, embers:crystal_cell, embers:alchemy_pedestal, embers:boiler, embers:combustor, embers:catalzyer, embers:field_chart, embers:inferno_forge, storagedrawers:framingtable, skyresources:*, lootbags:*, exsartagine:*, aquamunda:tank, opencomputers:*, malisisdoors:*, industrialforegoing:*, minecolonies:*, thaumcraft:pillar*, thaumcraft:infernal_furnace, thaumcraft:placeholder*, thaumcraft:infusion_matrix, thaumcraft:golem_builder, thaumcraft:thaumatorium*, magneticraft:oil_heater, magneticraft:solar_panel, magneticraft:steam_engine, magneticraft:shelving_unit, magneticraft:grinder, magneticraft:sieve, magneticraft:solar_tower, magneticraft:solar_mirror, magneticraft:container, magneticraft:pumpjack, magneticraft:solar_panel, magneticraft:refinery, magneticraft:oil_heater, magneticraft:hydraulic_press, magneticraft:multiblock_gap, refinedstorage:*, mcmultipart:*, enderstorage:*, betterstorage:*, practicallogistics2:*, wearablebackpacks:*, rftools:screen, rftools:creative_screen, create:*, magic_doorknob:*, iceandfire:*, ftbquests:*, waystones:*, contact:*, framedblocks:*, securitycraft:*, forgemultipartcbe:*, integrateddynamics:cable, mekanismgenerators:wind_generator, cookingforblockheads:cabinet, cookingforblockheads:corner, cookingforblockheads:counter, cookingforblockheads:oven, cookingforblockheads:toaster, cookingforblockheads:milk_jar, cookingforblockheads:cow_jar, cookingforblockheads:fruit_basket, cookingforblockheads:cooking_table, cookingforblockheads:fridge, cookingforblockheads:sink, powah:*, advancementtrophies:trophy, mekanismgenerators:heat_generator, mna:filler_block]. 
-[08Mar2025 18:50:54.698] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blacklist.forbiddenEntities was corrected from null to its default, [minecraft:end_crystal, minecraft:ender_dragon, minecraft:ghast, minecraft:shulker, minecraft:leash_knot, minecraft:armor_stand, minecraft:item_frame, minecraft:painting, minecraft:shulker_bullet, animania:hamster, animania:ferret*, animania:hedgehog*, animania:cart, animania:wagon, mynko:*, pixelmon:*, mocreatures:*, quark:totem, vehicle:*, securitycraft:*, taterzens:npc, easy_npc:*, bodiesbodies:dead_body]. 
-[08Mar2025 18:50:54.699] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blacklist.forbiddenStacking was corrected from null to its default, [minecraft:horse]. 
-[08Mar2025 18:50:54.706] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key customPickupConditions was corrected from null to its default, SimpleCommentedConfig:{}. 
-[08Mar2025 18:50:54.707] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key customPickupConditions.customPickupConditionsBlocks was corrected from null to its default, []. 
-[08Mar2025 18:50:54.707] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key customPickupConditions.customPickupConditionsEntities was corrected from null to its default, []. 
-[08Mar2025 18:50:55.132] [main/INFO] [journeymap/]: Initializing Packet Registries
-[08Mar2025 18:50:55.257] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[08Mar2025 18:50:55.308] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[08Mar2025 18:50:55.316] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[08Mar2025 18:50:55.317] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
-[08Mar2025 18:50:55.318] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
-[08Mar2025 18:50:55.321] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/update.json
-[08Mar2025 18:50:56.118] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Found status: UP_TO_DATE Current: 2.0.0-b1.4 Target: null
-[08Mar2025 18:50:56.119] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[08Mar2025 18:50:56.605] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.22 Target: 47.4.0
-[08Mar2025 18:50:56.605] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[08Mar2025 18:50:56.626] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
-[08Mar2025 18:50:56.626] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[08Mar2025 18:50:57.373] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[08Mar2025 18:50:57.374] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[08Mar2025 18:50:58.460] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
-[08Mar2025 18:50:58.466] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[08Mar2025 18:50:58.724] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[08Mar2025 18:50:58.877] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[08Mar2025 18:51:00.492] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidorcreate/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23133!/assets/.mcassetsroot' uses unexpected schema
-[08Mar2025 18:51:00.493] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidorcreate/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23133!/data/.mcassetsroot' uses unexpected schema
-[08Mar2025 18:51:02.962] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 22 recipes
-[08Mar2025 18:51:03.117] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2355 advancements
-[08Mar2025 18:51:03.131] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
-[08Mar2025 18:51:03.139] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[08Mar2025 18:51:04.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[08Mar2025 18:51:04.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[08Mar2025 18:51:04.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[08Mar2025 18:51:04.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[08Mar2025 18:51:04.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[08Mar2025 18:51:05.010] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[08Mar2025 18:51:05.126] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[08Mar2025 18:51:05.127] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[08Mar2025 18:51:05.127] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[08Mar2025 18:51:05.127] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[08Mar2025 18:51:05.168] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[08Mar2025 18:51:05.169] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[08Mar2025 18:51:05.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[08Mar2025 18:51:09.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[08Mar2025 18:51:10.272] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Mar2025 18:51:10.338] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Mar2025 18:51:10.387] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Mar2025 18:51:10.605] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Mar2025 18:51:11.103] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Mar2025 18:51:11.616] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Mar2025 18:51:12.101] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Mar2025 18:51:12.609] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Mar2025 18:51:13.102] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Mar2025 18:51:13.605] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Mar2025 18:51:14.109] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Mar2025 18:51:14.601] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Mar2025 18:51:15.100] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 64%
-[08Mar2025 18:51:15.420] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6320 ms
-[08Mar2025 18:51:15.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.270s)! For help, type "help"
-[08Mar2025 18:51:15.472] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[08Mar2025 18:52:45.328] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[08Mar2025 18:52:45.438] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IngCuantico[/127.173.51.119:37985] logged in with entity id 119 at (947.2261512932778, 64.0, -330.59959922850294)
-[08Mar2025 18:52:45.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IngCuantico joined the game
-[08Mar2025 18:52:45.573] [Server thread/INFO] [Jade/]: Syncing config to IngCuantico (30f128fe-bc4f-3aff-a4d1-3251799e73ce)
-[08Mar2025 18:53:32.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: danking[/127.178.170.88:33543] logged in with entity id 663 at (944.5, 64.0, -329.5)
-[08Mar2025 18:53:32.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking joined the game
-[08Mar2025 18:53:32.578] [Server thread/INFO] [Jade/]: Syncing config to danking (3bfa6721-a088-3a7b-8c88-75521f7badc1)
-[08Mar2025 18:54:06.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> ?
-[08Mar2025 18:54:11.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> pene
-[08Mar2025 18:54:15.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> comes
-[08Mar2025 18:54:18.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> yuumi
-[08Mar2025 18:54:24.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> voy a buscar bloques de hueso
-[08Mar2025 18:54:27.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> en el nether
-[08Mar2025 18:55:49.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> hilo tiene
-[08Mar2025 18:58:21.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> duera
-[08Mar2025 18:58:23.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> duerma
-[08Mar2025 18:58:23.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> zzz
-[08Mar2025 18:58:23.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IngCuantico: Teleported IngCuantico to danking]
-[08Mar2025 18:58:24.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> zzz
-[08Mar2025 18:58:24.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> zzz
-[08Mar2025 18:58:25.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> zzz
-[08Mar2025 18:58:25.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> zz
-[08Mar2025 18:58:26.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> zzz
-[08Mar2025 18:58:27.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> zzz
-[08Mar2025 18:58:28.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> z
-[08Mar2025 18:58:29.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> z
-[08Mar2025 18:58:29.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> z
-[08Mar2025 18:58:29.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> z
-[08Mar2025 18:58:29.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> z
-[08Mar2025 18:58:29.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> z
-[08Mar2025 18:58:30.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> zz
-[08Mar2025 18:58:35.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> papi k
-[08Mar2025 18:58:37.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> ya
-[08Mar2025 19:00:05.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IngCuantico: Teleported IngCuantico to danking]
-[08Mar2025 19:00:32.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> nena maldicion 🗣️🗣️🗣️
-[08Mar2025 19:00:51.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> yo ni la conozco pero jugaria con boz 😗😗😗
-[08Mar2025 19:00:57.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> boz laiyir
-[08Mar2025 19:01:08.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> seguro tiene mil pretendientes 😡😡😡
-[08Mar2025 19:01:24.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> ey beibi nooo🗣️🗣️🗣️
-[08Mar2025 19:02:05.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Teleported danking to IngCuantico]
-[08Mar2025 19:02:28.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> pa
-[08Mar2025 19:02:30.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> hierro
-[08Mar2025 19:02:32.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> 2
-[08Mar2025 19:04:58.086] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=885, y=63, z=-450} BlockPos{x=884, y=62, z=-450}
-[08Mar2025 19:08:41.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IngCuantico has made the advancement [We Need to Go Deeper]
-[08Mar2025 19:08:50.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> usted encontro fortaleza?
-[08Mar2025 19:08:53.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> no
-[08Mar2025 19:10:48.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IngCuantico: Teleported IngCuantico to danking]
-[08Mar2025 19:10:56.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> calientito
-[08Mar2025 19:12:08.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking has made the advancement [What a Deal!]
-[08Mar2025 19:17:12.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IngCuantico has completed the challenge [Hot Tourist Destinations]
-[08Mar2025 19:17:17.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> aya
-[08Mar2025 19:18:04.000] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:fortress took 1 ms
-[08Mar2025 19:18:42.010] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:fortress took 0 ms
-[08Mar2025 19:18:52.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IngCuantico has made the advancement [A Terrible Fortress]
-[08Mar2025 19:19:24.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IngCuantico: Teleported IngCuantico to danking]
-[08Mar2025 19:19:36.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> ALSKSJDKLASJDSA
-[08Mar2025 19:20:22.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> ahorita me toca salir
-[08Mar2025 19:20:29.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> pa donde
-[08Mar2025 19:20:35.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> a conseguir plata
-[08Mar2025 19:20:43.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> vamos a salir hoy?
-[08Mar2025 19:20:50.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> sisas usted viene y se queda en mi casa
-[08Mar2025 19:20:54.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> ASDKLASKJLDJA
-[08Mar2025 19:20:55.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> JAJA
-[08Mar2025 19:20:56.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> o q
-[08Mar2025 19:21:00.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> bre
-[08Mar2025 19:21:02.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> pues
-[08Mar2025 19:21:08.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> quiero ver como es pr
-[08Mar2025 19:21:17.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> si lo llegan a invitar vamos un toque
-[08Mar2025 19:21:19.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> r
-[08Mar2025 19:21:22.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> yo me llevo el portatil
-[08Mar2025 19:21:26.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> dos polas si muy aburrido
-[08Mar2025 19:21:28.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> y nos vamos a jugar
-[08Mar2025 19:21:29.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> alkdjsa
-[08Mar2025 19:21:51.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> papi
-[08Mar2025 19:21:57.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> haga un 6*6 de vallas
-[08Mar2025 19:22:00.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> llevo dos ovejas
-[08Mar2025 19:22:07.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> necesito lana
-[08Mar2025 19:22:16.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> r
-[08Mar2025 19:24:22.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> como esque se hace
-[08Mar2025 19:24:24.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> vago zoofilico
-[08Mar2025 19:24:27.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> shift clik derecho
-[08Mar2025 19:24:35.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> manos libres
-[08Mar2025 19:24:36.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> ambas
-[08Mar2025 19:28:20.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> vago manuela
-[08Mar2025 19:28:25.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking has made the advancement [A Seedy Place]
-[08Mar2025 19:28:51.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking has made the advancement [The Parrots and the Bats]
-[08Mar2025 19:28:52.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> foyen
-[08Mar2025 19:28:59.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Teleported IngCuantico to danking]
-[08Mar2025 19:29:08.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> pa´pi
-[08Mar2025 19:29:13.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> castigado
-[08Mar2025 19:29:15.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> grosero
-[08Mar2025 19:29:18.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> AJDK
-[08Mar2025 19:29:27.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> me imagine a cartman de sp
-[08Mar2025 19:29:41.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> bueno gordo
-[08Mar2025 19:29:43.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> entro en media hor
-[08Mar2025 19:29:47.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> malparido
-[08Mar2025 19:30:12.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> voy media hora tarde
-[08Mar2025 19:30:13.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> :'v
-[08Mar2025 19:30:14.582] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IngCuantico lost connection: Disconnected
-[08Mar2025 19:30:14.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IngCuantico left the game
-[08Mar2025 19:30:17.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> ASLKDJAD
-[08Mar2025 19:44:59.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking has made the advancement [Bonk!]
-[08Mar2025 19:56:45.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking has made the advancement [The Andesite Age]
+[08Mar2025 22:14:16.800] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.22, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[08Mar2025 22:14:16.803] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[08Mar2025 22:14:17.752] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[08Mar2025 22:14:17.834] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/servidorcreate/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[08Mar2025 22:14:18.142] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidorcreate/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.22/fmlcore-1.20.1-47.3.22.jar is missing mods.toml file
+[08Mar2025 22:14:18.144] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidorcreate/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.22/javafmllanguage-1.20.1-47.3.22.jar is missing mods.toml file
+[08Mar2025 22:14:18.146] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidorcreate/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.22/lowcodelanguage-1.20.1-47.3.22.jar is missing mods.toml file
+[08Mar2025 22:14:18.147] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidorcreate/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.22/mclanguage-1.20.1-47.3.22.jar is missing mods.toml file
+[08Mar2025 22:14:18.368] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[08Mar2025 22:14:20.686] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[08Mar2025 22:14:20.772] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[08Mar2025 22:14:20.775] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[08Mar2025 22:14:20.860] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Mar2025 22:14:21.105] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[08Mar2025 22:14:21.108] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[08Mar2025 22:14:21.108] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[08Mar2025 22:14:21.110] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[08Mar2025 22:14:21.111] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[08Mar2025 22:14:21.111] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[08Mar2025 22:14:21.115] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[08Mar2025 22:14:21.116] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[08Mar2025 22:14:31.061] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.22, for MC 1.20.1 with MCP 20230612.114412
+[08Mar2025 22:14:31.063] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.22 Initialized
+[08Mar2025 22:14:31.189] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[08Mar2025 22:14:31.189] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[08Mar2025 22:14:35.193] [main/INFO] [journeymap/]: Initializing Packet Registries
+[08Mar2025 22:14:35.345] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[08Mar2025 22:14:35.374] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/update.json
+[08Mar2025 22:14:35.404] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[08Mar2025 22:14:35.413] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[08Mar2025 22:14:35.416] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[08Mar2025 22:14:35.417] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[08Mar2025 22:14:35.880] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Found status: UP_TO_DATE Current: 2.0.0-b1.4 Target: null
+[08Mar2025 22:14:35.881] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[08Mar2025 22:14:36.170] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.22 Target: 47.4.0
+[08Mar2025 22:14:36.170] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[08Mar2025 22:14:36.185] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[08Mar2025 22:14:36.185] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[08Mar2025 22:14:36.419] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[08Mar2025 22:14:36.419] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[08Mar2025 22:14:37.084] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
+[08Mar2025 22:14:37.084] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[08Mar2025 22:14:37.348] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[08Mar2025 22:14:38.584] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08Mar2025 22:14:40.614] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidorcreate/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23133!/assets/.mcassetsroot' uses unexpected schema
+[08Mar2025 22:14:40.616] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidorcreate/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23133!/data/.mcassetsroot' uses unexpected schema
+[08Mar2025 22:14:43.422] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 22 recipes
+[08Mar2025 22:14:43.558] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2355 advancements
+[08Mar2025 22:14:43.568] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[08Mar2025 22:14:43.576] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[08Mar2025 22:14:45.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[08Mar2025 22:14:45.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[08Mar2025 22:14:45.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[08Mar2025 22:14:45.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[08Mar2025 22:14:45.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[08Mar2025 22:14:45.494] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[08Mar2025 22:14:45.606] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08Mar2025 22:14:45.606] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[08Mar2025 22:14:45.607] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08Mar2025 22:14:45.607] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[08Mar2025 22:14:45.659] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[08Mar2025 22:14:45.661] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[08Mar2025 22:14:45.662] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[08Mar2025 22:14:45.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[08Mar2025 22:14:46.956] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[08Mar2025 22:14:49.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[08Mar2025 22:14:54.255] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Mar2025 22:14:54.284] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Mar2025 22:14:54.342] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Mar2025 22:14:54.360] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Mar2025 22:14:54.378] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Mar2025 22:14:54.395] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Mar2025 22:14:54.415] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Mar2025 22:14:54.430] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Mar2025 22:14:54.440] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Mar2025 22:14:54.444] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Mar2025 22:14:54.635] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Mar2025 22:14:55.089] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Mar2025 22:14:55.589] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[08Mar2025 22:14:56.089] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 45%
+[08Mar2025 22:14:56.572] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6983 ms
+[08Mar2025 22:14:56.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.940s)! For help, type "help"
+[08Mar2025 22:14:56.963] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[08Mar2025 22:15:13.708] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@499ef8ca[id=<null>,name=IngCuantico,properties={},legacy=false] (/127.173.51.119:32951) lost connection: Disconnected
+[08Mar2025 22:15:17.802] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[08Mar2025 22:15:17.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IngCuantico[/127.173.51.119:41105] logged in with entity id 120 at (952.9501744823738, 64.0, -333.38494155859416)
+[08Mar2025 22:15:18.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IngCuantico joined the game
+[08Mar2025 22:15:18.192] [Server thread/INFO] [Jade/]: Syncing config to IngCuantico (30f128fe-bc4f-3aff-a4d1-3251799e73ce)
+[08Mar2025 22:15:20.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
+[08Mar2025 22:17:29.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: danking[/127.178.170.88:42241] logged in with entity id 883 at (950.3227742513865, 64.0, -339.48968374036406)
+[08Mar2025 22:17:29.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking joined the game
+[08Mar2025 22:17:29.363] [Server thread/INFO] [Jade/]: Syncing config to danking (3bfa6721-a088-3a7b-8c88-75521f7badc1)
+[08Mar2025 22:17:41.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> ñero
+[08Mar2025 22:17:42.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> ya hay laton?
+[08Mar2025 22:17:47.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> compre micro d 10k
+[08Mar2025 22:17:51.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> esos pequeños
+[08Mar2025 22:17:52.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> de 2mil
+[08Mar2025 22:17:52.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> aslkdjalsd
+[08Mar2025 22:17:56.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> no
+[08Mar2025 22:17:58.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> no tengo ni audifonos
+[08Mar2025 22:18:01.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> falta la fuente de energia
+[08Mar2025 22:18:05.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> pa que los daña bobo
+[08Mar2025 22:18:05.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> me voy a comrpar unos onikuma de 20k
+[08Mar2025 22:18:09.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> falta la fuente de energia
+[08Mar2025 22:18:11.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> y ya
+[08Mar2025 22:18:17.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> y hacer los minerales a combinar
+[08Mar2025 22:18:24.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> aunque
+[08Mar2025 22:18:24.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> los minerales estan?
+[08Mar2025 22:18:32.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> yo creo que si o si toca automatizar
+[08Mar2025 22:18:33.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> pq
+[08Mar2025 22:18:38.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> calmese
+[08Mar2025 22:18:39.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> creo que vamos a necesitar mucho
+[08Mar2025 22:18:40.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> ome cachon
+[08Mar2025 22:18:43.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> 😥😥😥
+[08Mar2025 22:18:50.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> venga
+[08Mar2025 22:18:52.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> mire
+[08Mar2025 22:19:10.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> dele clik derecho
+[08Mar2025 22:19:12.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> aca
+[08Mar2025 22:19:16.271] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=971, y=58, z=-390} BlockPos{x=971, y=59, z=-390}
+[08Mar2025 22:19:21.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> waos
+[08Mar2025 22:19:26.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> caliente
+[08Mar2025 22:19:30.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> voy a hacer el cinc y el cobre
+[08Mar2025 22:19:30.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> pero todavia no
+[08Mar2025 22:19:32.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> pongalo
+[08Mar2025 22:19:33.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> vea
+[08Mar2025 22:19:38.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> toca darle candela
+[08Mar2025 22:19:47.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> ahi ya ta prendido
+[08Mar2025 22:19:51.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> le pone un cublo de lava pa q dure
+[08Mar2025 22:19:54.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> no quema
+[08Mar2025 22:21:28.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> ahi le puse a cocinar cinc y cobre
+[08Mar2025 22:21:31.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> voy a buscar mas cobre
+[08Mar2025 22:24:09.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IngCuantico has made the advancement [Hot Stuff]
+[08Mar2025 22:24:13.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> no habia mas cobre?
