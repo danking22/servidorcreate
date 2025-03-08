@@ -4818,3 +4818,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Mar2025 19:30:14.582] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IngCuantico lost connection: Disconnected
 [08Mar2025 19:30:14.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IngCuantico left the game
 [08Mar2025 19:30:17.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> ASLKDJAD
+[08Mar2025 19:31:15.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 19:31:15.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 19:36:15.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 19:36:15.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 19:41:15.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 19:41:15.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
