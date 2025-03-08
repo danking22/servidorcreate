@@ -1526,3 +1526,11 @@
 [08Mar2025 06:44:26.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IngCuantico moved too quickly! -3.7021070123258824,2.0551592289064047,9.288029539645862
 [08Mar2025 06:44:26.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3430ms or 68 ticks behind
 [08Mar2025 06:46:31.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Teleported danking to IngCuantico]
+[08Mar2025 06:48:05.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IngCuantico: Teleported IngCuantico to danking]
+[08Mar2025 06:52:44.877] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking lost connection: Disconnected
+[08Mar2025 06:52:44.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking left the game
+[08Mar2025 06:55:49.076] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4f3367da[id=<null>,name=danking,properties={},legacy=false] (/127.6.192.164:45551) lost connection: Disconnected
+[08Mar2025 06:56:47.020] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: danking[/127.6.192.164:37805] logged in with entity id 31400 at (1142.0170612702395, -5.0, -857.1688716714222)
+[08Mar2025 06:56:47.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking joined the game
+[08Mar2025 06:56:47.037] [Server thread/INFO] [Jade/]: Syncing config to danking (3bfa6721-a088-3a7b-8c88-75521f7badc1)
+[08Mar2025 07:04:01.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Teleported danking to IngCuantico]
