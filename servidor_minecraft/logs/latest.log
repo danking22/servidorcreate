@@ -1510,3 +1510,19 @@
 [08Mar2025 06:25:01.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IngCuantico has made the advancement [Bonk!]
 [08Mar2025 06:32:56.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Teleported danking to IngCuantico]
 [08Mar2025 06:33:58.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking has made the advancement [Ice Bucket Challenge]
+[08Mar2025 06:38:41.442] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=942, y=65, z=-338} BlockPos{x=941, y=63, z=-338}
+[08Mar2025 06:38:52.939] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=939, y=65, z=-344} BlockPos{x=938, y=63, z=-344}
+[08Mar2025 06:38:52.996] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=939, y=65, z=-344} BlockPos{x=938, y=63, z=-344}
+[08Mar2025 06:38:53.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=939, y=65, z=-344} BlockPos{x=938, y=63, z=-344}
+[08Mar2025 06:38:57.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=935, y=65, z=-365} BlockPos{x=936, y=63, z=-364}
+[08Mar2025 06:38:57.695] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=935, y=65, z=-365} BlockPos{x=936, y=63, z=-364}
+[08Mar2025 06:38:57.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=935, y=65, z=-365} BlockPos{x=936, y=63, z=-364}
+[08Mar2025 06:39:44.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=951, y=65, z=-363} BlockPos{x=950, y=63, z=-363}
+[08Mar2025 06:39:44.643] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=951, y=65, z=-363} BlockPos{x=950, y=63, z=-363}
+[08Mar2025 06:39:46.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=950, y=65, z=-361} BlockPos{x=950, y=63, z=-360}
+[08Mar2025 06:40:14.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=948, y=65, z=-361} BlockPos{x=950, y=63, z=-360}
+[08Mar2025 06:41:55.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IngCuantico: Teleported IngCuantico to danking]
+[08Mar2025 06:44:25.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking has made the advancement [We Need to Go Deeper]
+[08Mar2025 06:44:26.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IngCuantico moved too quickly! -3.7021070123258824,2.0551592289064047,9.288029539645862
+[08Mar2025 06:44:26.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3430ms or 68 ticks behind
+[08Mar2025 06:46:31.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Teleported danking to IngCuantico]
