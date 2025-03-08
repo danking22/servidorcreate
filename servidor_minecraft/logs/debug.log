@@ -6088,3 +6088,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Mar2025 05:53:49.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IngCuantico: Teleported IngCuantico to danking]
 [08Mar2025 05:55:51.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Mar2025 05:55:51.651] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 05:57:17.477] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[08Mar2025 05:57:29.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> y
+[08Mar2025 05:57:32.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> y{
+[08Mar2025 05:57:43.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking has made the advancement [Suit Up]
+[08Mar2025 06:00:51.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 06:00:51.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 06:02:08.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking has made the advancement [Diamonds!]
+[08Mar2025 06:02:54.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IngCuantico: Teleported IngCuantico to danking]
+[08Mar2025 06:05:06.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IngCuantico: Teleported IngCuantico to danking]
+[08Mar2025 06:05:51.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 06:05:51.646] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
