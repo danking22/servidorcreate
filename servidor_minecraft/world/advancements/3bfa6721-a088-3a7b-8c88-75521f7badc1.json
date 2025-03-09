@@ -4045,9 +4045,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-03-09 22:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-03-09 22:28:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_brick_slab": {
     "criteria": {
       "has_cut_asurine_bricks": "2025-03-09 22:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-03-09 22:33:04 +0000"
     },
     "done": true
   },

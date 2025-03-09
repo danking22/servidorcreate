@@ -4593,6 +4593,12 @@
     },
     "done": true
   },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2025-03-09 22:29:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
@@ -4830,6 +4836,18 @@
   "create:recipes/building_blocks/layered_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2025-03-09 22:30:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2025-03-09 22:26:54 +0000"
     },
     "done": true
   },
