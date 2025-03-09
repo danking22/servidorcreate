@@ -4653,6 +4653,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_asurine_brick_slab": {
+    "criteria": {
+      "has_cut_asurine_bricks": "2025-03-09 21:50:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-03-09 21:43:20 +0000"
@@ -4680,6 +4686,12 @@
   "create:recipes/building_blocks/polished_cut_asurine_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_slab": {
+    "criteria": {
+      "has_cut_asurine": "2025-03-09 21:49:32 +0000"
     },
     "done": true
   },
@@ -4713,6 +4725,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_asurine_wall": {
+    "criteria": {
+      "has_cut_asurine": "2025-03-09 21:49:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-03-09 21:43:20 +0000"
@@ -4734,6 +4752,12 @@
   "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-03-09 21:43:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_stairs": {
+    "criteria": {
+      "has_cut_asurine_bricks": "2025-03-09 21:50:16 +0000"
     },
     "done": true
   },
@@ -4803,9 +4827,27 @@
     },
     "done": true
   },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-03-09 21:55:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_stairs": {
+    "criteria": {
+      "has_cut_asurine": "2025-03-09 21:49:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_wall": {
+    "criteria": {
+      "has_cut_asurine_bricks": "2025-03-09 21:50:16 +0000"
     },
     "done": true
   },
