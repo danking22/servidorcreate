@@ -178,3 +178,13 @@
 [09Mar2025 21:42:29.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danking> ME CAGO
 [09Mar2025 21:42:32.067] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking lost connection: Disconnected
 [09Mar2025 21:42:32.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking left the game
+[09Mar2025 21:43:47.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IngCuantico was doomed to fall
+[09Mar2025 21:50:21.412] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5ce2a0bf[id=<null>,name=danking,properties={},legacy=false] (/127.178.170.88:57839) lost connection: Disconnected
+[09Mar2025 21:50:57.411] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@583b1bba[id=<null>,name=danking,properties={},legacy=false] (/127.178.170.88:59999) lost connection: Disconnected
+[09Mar2025 21:51:35.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to IngCuantico: no me deja entrar esta meirda
+[09Mar2025 21:51:37.162] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@10e6ab87[id=<null>,name=danking,properties={},legacy=false] (/127.178.170.88:54781) lost connection: Disconnected
+[09Mar2025 21:51:38.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> XD
+[09Mar2025 21:52:00.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to IngCuantico: esta situacion hay que arreglarla 🗣️🗣️🗣️
+[09Mar2025 21:52:08.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: danking[/127.178.170.88:42865] logged in with entity id 15813 at (794.3000000119209, 93.0, -482.09290658592886)
+[09Mar2025 21:52:08.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking joined the game
+[09Mar2025 21:52:08.364] [Server thread/INFO] [Jade/]: Syncing config to danking (3bfa6721-a088-3a7b-8c88-75521f7badc1)
