@@ -4045,5 +4045,23 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_asurine_brick_slab": {
+    "criteria": {
+      "has_cut_asurine_bricks": "2025-03-09 22:13:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_stairs": {
+    "criteria": {
+      "has_cut_asurine_bricks": "2025-03-09 22:13:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_wall": {
+    "criteria": {
+      "has_cut_asurine_bricks": "2025-03-09 22:13:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
