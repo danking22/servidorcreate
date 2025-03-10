@@ -4581,21 +4581,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-03-09 21:43:20 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/asurine_pillar_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
-    },
-    "done": true
-  },
-  "create:encased_fan": {
-    "criteria": {
-      "0": "2025-03-09 22:29:54 +0000"
     },
     "done": true
   },
@@ -4623,33 +4611,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-03-09 21:43:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-03-09 21:43:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-03-09 21:43:20 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_asurine_bricks_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
-    },
-    "done": true
-  },
-  "create:crushing_wheel": {
-    "criteria": {
-      "0": "2025-03-09 22:22:45 +0000"
     },
     "done": true
   },
@@ -4665,9 +4629,93 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_asurine_brick_slab": {
+  "create:recipes/building_blocks/polished_cut_asurine_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
-      "has_cut_asurine_bricks": "2025-03-09 21:50:16 +0000"
+      "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_bricks_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-03-09 21:43:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-03-09 21:43:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-03-09 21:43:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-03-09 21:43:20 +0000"
     },
     "done": true
   },
@@ -4689,57 +4737,15 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-03-09 21:46:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_asurine_wall_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_slab": {
-    "criteria": {
-      "has_cut_asurine": "2025-03-09 21:49:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_bricks_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-03-09 21:43:20 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-03-09 21:43:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_wall": {
-    "criteria": {
-      "has_cut_asurine": "2025-03-09 21:49:32 +0000"
     },
     "done": true
   },
@@ -4767,24 +4773,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_asurine_brick_stairs": {
-    "criteria": {
-      "has_cut_asurine_bricks": "2025-03-09 21:50:16 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_slab_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-03-09 21:43:20 +0000"
@@ -4803,27 +4791,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_asurine_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-03-09 21:43:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_asurine_slab_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
     },
     "done": true
   },
@@ -4833,33 +4803,27 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/layered_asurine_from_stone_types_asurine_stonecutting": {
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
-      "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
+      "has_stone_types_calcite": "2025-03-09 21:43:20 +0000"
     },
     "done": true
   },
-  "create:fan_processing": {
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
-      "0": "2025-03-09 22:30:02 +0000"
+      "has_diamond_backpack": "2025-03-09 21:46:29 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/nozzle": {
+  "create:recipes/building_blocks/cut_asurine_slab": {
     "criteria": {
-      "has_item": "2025-03-09 22:26:54 +0000"
+      "has_cut_asurine": "2025-03-09 21:49:32 +0000"
     },
     "done": true
   },
-  "create:belt": {
+  "create:recipes/building_blocks/cut_asurine_wall": {
     "criteria": {
-      "0": "2025-03-09 21:55:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-03-09 21:41:26 +0000"
+      "has_cut_asurine": "2025-03-09 21:49:32 +0000"
     },
     "done": true
   },
@@ -4869,15 +4833,69 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_asurine_brick_slab": {
+    "criteria": {
+      "has_cut_asurine_bricks": "2025-03-09 21:50:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_stairs": {
+    "criteria": {
+      "has_cut_asurine_bricks": "2025-03-09 21:50:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_brick_wall": {
     "criteria": {
       "has_cut_asurine_bricks": "2025-03-09 21:50:16 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+  "create:belt": {
     "criteria": {
-      "has_stone_types_calcite": "2025-03-09 21:43:20 +0000"
+      "0": "2025-03-09 21:55:28 +0000"
+    },
+    "done": true
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2025-03-09 22:22:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2025-03-09 22:26:54 +0000"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2025-03-09 22:29:54 +0000"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2025-03-09 22:30:02 +0000"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-03-09 22:40:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_the_recipe": "2025-03-09 22:41:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/attribute_filter_clear": {
+    "criteria": {
+      "has_item": "2025-03-09 22:41:49 +0000"
     },
     "done": true
   },
