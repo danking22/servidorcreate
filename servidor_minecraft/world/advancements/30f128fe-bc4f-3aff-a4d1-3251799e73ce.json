@@ -796,6 +796,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-08 06:42:10 +0000",
+      "cooked_mutton": "2025-03-10 14:50:01 +0000",
       "cooked_beef": "2025-03-08 22:49:05 +0000",
       "baked_potato": "2025-03-08 19:29:39 +0000",
       "apple": "2025-03-08 07:22:20 +0000",
@@ -1848,6 +1849,7 @@
       "minecraft:skeleton": "2025-03-08 05:45:37 +0000",
       "minecraft:spider": "2025-03-08 05:56:36 +0000",
       "minecraft:creeper": "2025-03-08 06:33:47 +0000",
+      "minecraft:witch": "2025-03-10 14:44:43 +0000",
       "minecraft:zombie": "2025-03-08 05:50:54 +0000",
       "minecraft:drowned": "2025-03-10 14:19:51 +0000"
     },
@@ -5053,6 +5055,18 @@
   "create:recipes/misc/crafting/kinetics/smart_chute": {
     "criteria": {
       "has_item": "2025-03-10 14:37:29 +0000"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-03-10 14:42:52 +0000"
+    },
+    "done": true
+  },
+  "create:compacting": {
+    "criteria": {
+      "0": "2025-03-10 14:43:41 +0000"
     },
     "done": true
   },
