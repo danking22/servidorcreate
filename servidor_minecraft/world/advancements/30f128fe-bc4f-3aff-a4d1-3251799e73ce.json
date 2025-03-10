@@ -4899,9 +4899,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/glass_from_framed_glass": {
+    "criteria": {
+      "has_item": "2025-03-10 13:46:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-03-10 13:35:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2025-03-10 13:46:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-03-10 13:50:39 +0000"
     },
     "done": true
   },
@@ -4910,6 +4928,24 @@
       "minecraft:sheep": "2025-03-10 13:35:32 +0000"
     },
     "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_door": {
+    "criteria": {
+      "has_item": "2025-03-10 13:46:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-03-10 13:50:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2025-03-10 13:46:45 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
