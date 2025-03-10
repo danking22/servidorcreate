@@ -4900,15 +4900,51 @@
     },
     "done": true
   },
-  "create:stressometer": {
+  "minecraft:husbandry/breed_an_animal": {
     "criteria": {
-      "0": "2025-03-10 14:09:33 +0000"
+      "bred": "2025-03-10 13:35:32 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-03-10 13:35:32 +0000"
+    },
+    "done": false
   },
   "create:recipes/misc/smelting/glass_from_framed_glass": {
     "criteria": {
       "has_item": "2025-03-10 13:46:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2025-03-10 13:46:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_door": {
+    "criteria": {
+      "has_item": "2025-03-10 13:46:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2025-03-10 13:46:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-03-10 13:50:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-03-10 13:50:39 +0000"
     },
     "done": true
   },
@@ -4918,27 +4954,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2025-03-10 14:09:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/stressometerfrom_conversion": {
-    "criteria": {
-      "has_the_recipe": "2025-03-10 14:09:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2025-03-10 14:03:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/speedometerfrom_conversion": {
-    "criteria": {
-      "has_item": "2025-03-10 14:09:27 +0000"
     },
     "done": true
   },
@@ -4954,45 +4972,21 @@
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2025-03-10 13:35:32 +0000"
-    },
-    "done": true
-  },
-  "create:mechanical_pump_0": {
-    "criteria": {
-      "0": "2025-03-10 14:06:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2025-03-10 14:03:17 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
-      "has_item": "2025-03-10 13:46:45 +0000"
+      "has_copper_block": "2025-03-10 14:03:17 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+  "create:mechanical_pump_0": {
     "criteria": {
-      "has_item": "2025-03-10 13:50:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:sheep": "2025-03-10 13:35:32 +0000"
-    },
-    "done": false
-  },
-  "create:deployer": {
-    "criteria": {
-      "0": "2025-03-10 14:16:24 +0000"
+      "0": "2025-03-10 14:06:58 +0000"
     },
     "done": true
   },
@@ -5008,9 +5002,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+  "minecraft:recipes/misc/map": {
     "criteria": {
-      "has_copper_block": "2025-03-10 14:03:17 +0000"
+      "has_compass": "2025-03-10 14:09:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/stressometerfrom_conversion": {
+    "criteria": {
+      "has_the_recipe": "2025-03-10 14:09:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/speedometerfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-03-10 14:09:27 +0000"
+    },
+    "done": true
+  },
+  "create:stressometer": {
+    "criteria": {
+      "0": "2025-03-10 14:09:33 +0000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-03-10 14:16:24 +0000"
     },
     "done": true
   },
@@ -5020,21 +5038,21 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/framed_glass_door": {
+  "create:speed_controller": {
     "criteria": {
-      "has_item": "2025-03-10 13:46:45 +0000"
+      "0": "2025-03-10 14:26:07 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/item_vault": {
+  "create:recipes/misc/crafting/appliances/filter_clear": {
     "criteria": {
-      "has_item": "2025-03-10 13:50:39 +0000"
+      "has_item": "2025-03-10 14:32:18 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/framed_glass_pane": {
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
     "criteria": {
-      "has_ingredient": "2025-03-10 13:46:45 +0000"
+      "has_item": "2025-03-10 14:37:29 +0000"
     },
     "done": true
   },
