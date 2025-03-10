@@ -4535,3 +4535,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [10Mar2025 18:56:07.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Mar2025 18:56:07.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Mar2025 18:58:18.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IngCuantico has reached the goal [Magma Wheel]
+[10Mar2025 19:01:07.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 19:01:07.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 19:06:07.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 19:06:07.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 19:06:40.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IngCuantico has reached the goal [Tapping the Mantle]
+[10Mar2025 19:11:07.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 19:11:07.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

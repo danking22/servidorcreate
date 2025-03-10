@@ -5126,6 +5126,12 @@
     },
     "done": true
   },
+  "create:hose_pulley_lava": {
+    "criteria": {
+      "0": "2025-03-10 19:06:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-03-10 18:16:44 +0000"
@@ -5135,6 +5141,12 @@
   "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
     "criteria": {
       "has_item": "2025-03-10 18:52:16 +0000"
+    },
+    "done": true
+  },
+  "create:glass_pipe": {
+    "criteria": {
+      "0": "2025-03-10 19:06:42 +0000"
     },
     "done": true
   },
@@ -5165,6 +5177,12 @@
   "minecraft:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2025-03-10 18:16:44 +0000"
+    },
+    "done": true
+  },
+  "create:hose_pulley": {
+    "criteria": {
+      "0": "2025-03-10 19:06:40 +0000"
     },
     "done": true
   },
@@ -5213,6 +5231,12 @@
   "create:recipes/misc/crafting/kinetics/copper_door": {
     "criteria": {
       "has_item": "2025-03-10 18:52:16 +0000"
+    },
+    "done": true
+  },
+  "create:lava_wheel_00000": {
+    "criteria": {
+      "0": "2025-03-10 18:58:18 +0000"
     },
     "done": true
   },
