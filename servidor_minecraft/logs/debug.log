@@ -11121,3 +11121,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 [12Mar2025 00:57:28.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Mar2025 00:57:28.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12Mar2025 01:00:00.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking has made the advancement [Local Brewery]
+[12Mar2025 01:02:28.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Mar2025 01:02:28.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Mar2025 01:05:06.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking has reached the goal [Zombie Doctor]
+[12Mar2025 01:07:28.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Mar2025 01:07:28.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
