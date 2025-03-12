@@ -11160,3 +11160,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 [12Mar2025 01:31:02.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking has made the advancement [Free the End]
 [12Mar2025 01:32:31.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Mar2025 01:32:31.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Mar2025 01:37:10.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IngCuantico lost connection: Disconnected
+[12Mar2025 01:37:10.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IngCuantico left the game
+[12Mar2025 01:37:10.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Kicked IngCuantico: Kicked by an operator]
+[12Mar2025 01:37:10.297] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Mar2025 01:37:31.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Mar2025 01:37:31.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Mar2025 01:42:31.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Mar2025 01:42:31.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

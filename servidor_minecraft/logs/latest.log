@@ -2187,3 +2187,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 [12Mar2025 01:28:51.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IngCuantico: Teleported IngCuantico to danking]
 [12Mar2025 01:29:01.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking has made the advancement [Take Aim]
 [12Mar2025 01:31:02.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking has made the advancement [Free the End]
+[12Mar2025 01:37:10.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IngCuantico lost connection: Disconnected
+[12Mar2025 01:37:10.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IngCuantico left the game
+[12Mar2025 01:37:10.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Kicked IngCuantico: Kicked by an operator]
+[12Mar2025 01:37:10.297] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
