@@ -11112,3 +11112,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 [12Mar2025 00:47:28.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12Mar2025 00:47:40.102] [Server thread/DEBUG] [mixin/]: Mixing ContainerLevelAccessMixin from railways.mixins.json into net.minecraft.world.inventory.ContainerLevelAccess
 [12Mar2025 00:50:20.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IngCuantico has made the advancement [Into Fire]
+[12Mar2025 00:52:08.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Teleported danking to IngCuantico]
+[12Mar2025 00:52:28.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Mar2025 00:52:28.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Mar2025 00:53:54.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Teleported danking to IngCuantico]
+[12Mar2025 00:54:19.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking has made the advancement [Into Fire]
+[12Mar2025 00:55:11.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Teleported danking to IngCuantico]
+[12Mar2025 00:57:28.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Mar2025 00:57:28.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Mar2025 01:00:00.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking has made the advancement [Local Brewery]

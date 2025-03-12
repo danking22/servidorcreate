@@ -2158,3 +2158,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 [12Mar2025 00:44:58.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking joined the game
 [12Mar2025 00:44:58.926] [Server thread/INFO] [Jade/]: Syncing config to danking (3bfa6721-a088-3a7b-8c88-75521f7badc1)
 [12Mar2025 00:50:20.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IngCuantico has made the advancement [Into Fire]
+[12Mar2025 00:52:08.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Teleported danking to IngCuantico]
+[12Mar2025 00:53:54.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Teleported danking to IngCuantico]
+[12Mar2025 00:54:19.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking has made the advancement [Into Fire]
+[12Mar2025 00:55:11.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Teleported danking to IngCuantico]
+[12Mar2025 01:00:00.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking has made the advancement [Local Brewery]
