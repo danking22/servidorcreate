@@ -1532,6 +1532,7 @@
       "minecraft:spider": "2025-03-08 05:59:20 +0000",
       "minecraft:piglin_brute": "2025-03-11 02:19:15 +0000",
       "minecraft:creeper": "2025-03-08 06:21:52 +0000",
+      "minecraft:ender_dragon": "2025-03-12 01:31:02 +0000",
       "minecraft:piglin": "2025-03-11 01:38:42 +0000",
       "minecraft:enderman": "2025-03-11 01:39:10 +0000",
       "minecraft:zombie": "2025-03-08 05:48:43 +0000",
@@ -4867,6 +4868,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-03-12 01:29:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-12 00:56:28 +0000"
@@ -4999,6 +5006,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-03-12 01:21:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 00:44:58 +0000"
@@ -5008,6 +5021,24 @@
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-03-12 01:02:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-03-12 01:21:09 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_iron_door": {
+    "criteria": {
+      "has_item": "2025-03-12 01:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-03-12 01:31:02 +0000"
     },
     "done": true
   },
@@ -5032,6 +5063,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-12 00:56:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-03-12 01:21:26 +0000"
     },
     "done": true
   },
@@ -5086,6 +5123,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-03-12 01:15:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-03-12 01:21:26 +0000"
     },
     "done": true
   },
@@ -5200,6 +5243,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-03-12 00:54:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-03-12 01:21:09 +0000"
     },
     "done": true
   },
